@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\doc_file_csv\bin\Debug\net8.0\doc_file_csv.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\doc_file_csv\bin\Debug\net8.0\doc_file_csv.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\doc_file_csv\bin\Debug\net8.0\doc_file_csv.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\doc_file_csv\bin\Debug\net8.0\doc_file_csv.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\doc_file_csv\bin\Debug\net8.0\doc_file_csv.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\doc_file_csv\obj\Debug\net8.0\doc_file_csv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\doc_file_csv\obj\Debug\net8.0\doc_file_csv.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\doc_file_csv\obj\Debug\net8.0\doc_file_csv.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\doc_file_csv\obj\Debug\net8.0\doc_file_csv.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\doc_file_csv\obj\Debug\net8.0\doc_file_csv.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\doc_file_csv\obj\Debug\net8.0\refint\doc_file_csv.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\doc_file_csv\obj\Debug\net8.0\doc_file_csv.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\doc_file_csv\obj\Debug\net8.0\doc_file_csv.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\doc_file_csv\obj\Debug\net8.0\ref\doc_file_csv.dll
